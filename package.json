@@ -1,0 +1,20 @@
+{
+    "name": "aonce",
+    "description": "Run an async function once and remember its results",
+    "main": "./aonce",
+    "author": "Sidney San Martín",
+    "version": "0.1.0",
+    "repository" : {
+        "type" : "git",
+        "url" : "https://github.com/Sidnicious/aonce.git"
+    },
+    "bugs" : {
+        "url" : "https://github.com/Sidnicious/aonce/issues"
+    },
+    "licenses" : [
+        {
+            "type" : "CC0",
+            "url" : "http://creativecommons.org/publicdomain/zero/1.0/"
+        }
+    ]
+}
